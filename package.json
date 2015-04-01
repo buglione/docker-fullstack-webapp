@@ -1,0 +1,11 @@
+{
+  "name": "docker-fullstack-webapp",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Node.js + mongodb server running inside docker",
+  "author": "Mariano Buglione <buglione@gmail.com>",
+  "dependencies": {
+    "http-server": "*",
+    "mongojs": "0.17.0"
+  }
+}
