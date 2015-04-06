@@ -1,6 +1,6 @@
-# Probe of concept: Docker + Node.js + MongoDB
+# Web App Fullstack using Docker + Node.js + MongoDB
 
-The aim of this probe of concept is to write a Dockerfile for automatically stand up a data driven website (Node.js + MongoDB) from scratch.
+Dockerfile for automatically stand up a data driven website (Node.js + MongoDB) from scratch ready to deploy a web app
 The Dockerfile build a docker image (running ubuntu/trusty) which provide a simple web app written in node.js. The node.js app use mongodb as a data store.
 
 ### Procedure:
